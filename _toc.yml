@@ -34,6 +34,7 @@ parts:
       - file: folderMiscellaneous/normative_references
       - file: folderMiscellaneous/terms
       - file: folderMiscellaneous/general_methodology
+      - file: folderMiscellaneous/general_methodologyNB      
       - file: folderMiscellaneous/detailed_analysis
       - file: folderMiscellaneous/conclusion    
       - file: folderMiscellaneous/annexA    
